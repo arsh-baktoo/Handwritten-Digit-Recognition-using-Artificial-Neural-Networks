@@ -1,6 +1,9 @@
 Name : Arsh Baktoo
+
 Reg. No. : 23BCE10430
+
 Application Number: IN26010763
+
 # Handwritten Digit Recognition using Artificial Neural Networks (ANN)
 
 This repository contains the solution for **AI-ML Assignment - 8**. The objective is to develop a Feedforward Artificial Neural Network (ANN) using TensorFlow/Keras to classify handwritten digits (0–9) using the MNIST dataset.
